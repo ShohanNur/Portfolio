@@ -37,12 +37,12 @@ export function Hero() {
           {/* Content */}
           <div className="text-center lg:text-left space-y-8">
             <div className="space-y-4">
-              <h1 className="text-5xl lg:text-7xl font-bold text-balance">
-                SHOHANUR
+              <h1 className="text-5xl lg:text-6xl font-bold text-balance">
+                MD. SHOHANUR
                 <br />
                 <span className="text-primary">RAHMAN</span>
               </h1>
-              <h2 className="text-xl lg:text-2xl text-primary font-medium">Full Stack Developer & AI/ML Engineer</h2>
+              <h2 className="text-xl lg:text-2xl text-primary font-medium">Full Stack Developer & AI/ML Enthusiast</h2>
               <p className="text-lg text-muted-foreground">Fresh Graduate from SUST</p>
               <div className="flex items-center justify-center lg:justify-start gap-2 text-muted-foreground">
                 <MapPin className="w-4 h-4" />
